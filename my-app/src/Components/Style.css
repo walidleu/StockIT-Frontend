@@ -1,0 +1,57 @@
+.custom-button{
+    background-color: rgb(128, 33, 128);
+}
+.form-font-color{
+    color: rgb(187, 104, 187);
+    font-family:  Helvetica, sans-serif ;   
+}
+.ln-background{
+    background: linear-gradient(45deg,#381b49,#bd2c92);
+}
+.navbar-font{
+    color: aliceblue;
+}
+.center-search-bar {
+    margin-left:34em;
+    margin-bottom: 40px;
+  }
+.center-homepage-element1
+{
+    margin-left: 6em;
+    margin-left: 7.35em;
+    margin-top: 0.05em;
+    font-size: 70px;
+    color: #381b49;
+}
+.center-homepage-element2
+{
+    margin-left: 6em;
+    margin-left: 11em;
+    margin-top: 0.05 em;
+    font-size: 40px;
+    color: #181216;
+}
+.button-homepage
+{
+    background-color: rgb(128, 33, 128);
+}
+
+.button-container-hp {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .custom-button-hp {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Facultatif : style de survol (hover) */
+  .custom-button-hp:hover {
+    background-color:    rgb(128, 33, 128);;
+  }

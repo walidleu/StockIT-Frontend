@@ -1,0 +1,30 @@
+.dashboard {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .card {
+    background-color: #5a1751;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 300px;
+    box-shadow: 0 2px 4px rgba(116, 22, 95, 0.1);
+  }
+  h1 {
+    font-size: 24px; 
+    text-align: center; 
+    margin-bottom: 20px; 
+  }
+  h2 {
+    margin-top: 0;
+    font-size: 20px;
+    color: #bd2c92;
+  }
+  
+  p {
+    margin: 10px 0;
+    color: white;
+  }
+  
